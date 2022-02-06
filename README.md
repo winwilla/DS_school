@@ -1,2 +1,2 @@
 # DS_school
-DataScience course
+Repository for Data Science school homework
